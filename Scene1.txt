@@ -1,0 +1,10 @@
+Viktor toque 
+Ouvrir la porte ou attendre un peu
+si non, 20 secondes plus tard, porte ouvre, viktor marche et dialogue
+freme la porte en partant
+
+Prle à Egon pile en face, disparaît réapparait 
+persos se tournent vers nous en sortant et arrêt de la discussion
+Discussion en murmure, arrêtent quand trop près
+
+
